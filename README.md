@@ -87,11 +87,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=E22CSEU1553&show_icons=true&locale=en&layout=compact" alt="E22CSEU1553" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsheeshGaur06&theme=dark" alt="AsheeshGaur06" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=E22CSEU1553&show_icons=true&locale=en" alt="E22CSEU1553" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsheeshGaur06&theme=dark" alt="AsheeshGaur06" /></p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=E22CSEU1553&" alt="E22CSEU1553" />
 </p>
