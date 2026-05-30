@@ -16,15 +16,30 @@
 
 ---
 
-<h3 align="left">Connect with me &nbsp;<a href="https://linkedin.com/in/asheesh-gaur" target="blank"><img src="https://img.shields.io/badge/LinkedIn-asheesh--gaur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" /> Connect with me on LinkedIn</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/asheesh-gaur" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-asheesh--gaur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<h3 align="left">LeetCode &nbsp;<a href="https://www.leetcode.com/asheeshgaur06" target="blank"><img src="https://img.shields.io/badge/LeetCode-asheeshgaur06-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a></h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="30" /> LeetCode</h3>
+<p align="left">
+  <a href="https://www.leetcode.com/asheeshgaur06" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-asheeshgaur06-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<h3 align="left">GeeksForGeeks &nbsp;<a href="https://auth.geeksforgeeks.org/user/asheeshxfzm/profile" target="blank"><img src="https://img.shields.io/badge/GeeksForGeeks-asheeshxfzm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a></h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="25" width="30" /> GeeksForGeeks</h3>
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/asheeshxfzm/profile" target="blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-asheeshxfzm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
