@@ -88,10 +88,10 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e22cseu1553&show_icons=true&locale=en&layout=compact" alt="e22cseu1553" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsheeshGaur06&show_icons=true&locale=en&layout=compact" alt="AsheeshGaur06" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e22cseu1553&show_icons=true&locale=en" alt="e22cseu1553" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsheeshGaur06&show_icons=true&locale=en" alt="AsheeshGaur06" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e22cseu1553&" alt="e22cseu1553" />
