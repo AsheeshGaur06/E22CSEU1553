@@ -94,5 +94,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsheeshGaur06&show_icons=true&locale=en" alt="AsheeshGaur06" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e22cseu1553&" alt="e22cseu1553" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsheeshGaur06&" alt="AsheeshGaur06" />
 </p>
