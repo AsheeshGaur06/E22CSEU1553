@@ -16,15 +16,43 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 LinkedIn</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/asheesh-gaur" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asheesh Gaur LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/asheesh-gaur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asheesh-gaur" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/asheesh-gaur" target="blank">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-asheesh--gaur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+<h3 align="left">💻 LeetCode</h3>
 <p align="left">
-<a href="https://www.leetcode.com/asheeshgaur06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asheeshgaur06" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asheeshxfzm/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asheeshxfzm/profile" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/asheeshgaur06" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asheeshgaur06" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/asheeshgaur06" target="blank">
+    <img align="right" src="https://leetcard.jacoblin.cool/asheeshgaur06?theme=dark&font=Karma&ext=contest" />
+  </a>
+</p>
+
+<br/><br/><br/><br/><br/><br/>
+
+---
+
+<h3 align="left">🟢 GeeksForGeeks</h3>
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/asheeshxfzm/profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asheeshxfzm" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/asheeshxfzm/profile" target="blank">
+    <img align="right" src="https://img.shields.io/badge/GeeksForGeeks-asheeshxfzm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
